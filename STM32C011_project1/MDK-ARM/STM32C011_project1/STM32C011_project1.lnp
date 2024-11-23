@@ -1,0 +1,28 @@
+--cpu Cortex-M0+
+"stm32c011_project1\startup_stm32c011xx.o"
+"stm32c011_project1\main.o"
+"stm32c011_project1\gpio.o"
+"stm32c011_project1\usart.o"
+"stm32c011_project1\stm32c0xx_it.o"
+"stm32c011_project1\stm32c0xx_hal_msp.o"
+"stm32c011_project1\stm32c0xx_hal.o"
+"stm32c011_project1\stm32c0xx_hal_cortex.o"
+"stm32c011_project1\stm32c0xx_hal_rcc.o"
+"stm32c011_project1\stm32c0xx_hal_rcc_ex.o"
+"stm32c011_project1\stm32c0xx_hal_flash.o"
+"stm32c011_project1\stm32c0xx_hal_flash_ex.o"
+"stm32c011_project1\stm32c0xx_hal_gpio.o"
+"stm32c011_project1\stm32c0xx_hal_dma.o"
+"stm32c011_project1\stm32c0xx_hal_dma_ex.o"
+"stm32c011_project1\stm32c0xx_hal_pwr.o"
+"stm32c011_project1\stm32c0xx_hal_pwr_ex.o"
+"stm32c011_project1\stm32c0xx_hal_exti.o"
+"stm32c011_project1\stm32c0xx_hal_tim.o"
+"stm32c011_project1\stm32c0xx_hal_tim_ex.o"
+"stm32c011_project1\stm32c0xx_hal_uart.o"
+"stm32c011_project1\stm32c0xx_hal_uart_ex.o"
+"stm32c011_project1\system_stm32c0xx.o"
+--library_type=microlib --strict --scatter "STM32C011_project1\STM32C011_project1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "STM32C011_project1.map" -o STM32C011_project1\STM32C011_project1.axf

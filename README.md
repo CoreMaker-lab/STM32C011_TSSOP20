@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16cc15dd-1b4c-4895-acb7-3a1f24f5a936)![image](https://github.com/user-attachments/assets/0926c3d2-fb67-4163-806a-f454acc80878)# Overview
+# Overview
 - **Name**: STM32C011_TSSOP20-V1.0
 - **MCU**: STM32C011F4P6
 - **IDE**: STM32CUBEMX+KEIL
@@ -33,6 +33,16 @@
 - **Video**: [Video](https://space.bilibili.com/26152390)
 
 
+# Project Introduction
+- **STM32WB55_project1**:STM32WB55RG开发(1)----开发板测试
+- **CSDN Blog**:[https://blog.csdn.net/qq_24312945/article/details/143673551](https://blog.csdn.net/qq_24312945/article/details/143673551)
+
+STM32WB55 & SENSOR是一款基于STM32WB55系列微控制器的评估套件。该套件采用先进的无线通信技术，支持Bluetooth® 5.3规范、IEEE 802.15.4-2011 PHY和MAC，支持Thread和Zigbee® 3.0 ，为开发人员打开了广阔的物联网和智能设备应用领域。此外，该套件具有丰富的接口和外设，以及传感器（SENSOR）系列连接器接口，方便用户进行各种硬件连接和外设扩展。
+
+这里通过配置LED和UART输出进行简单测试。
+
+
+STM32WB55 & SENSOR is an evaluation kit based on the STM32WB55 series microcontroller. This kit uses advanced wireless communication technology, supporting Bluetooth® 5.3 specification, IEEE 802.15.4-2011 PHY and MAC, and is compatible with Thread and Zigbee® 3.0, opening up broad application possibilities for IoT and smart devices. Additionally, the kit features a wide range of interfaces and peripherals, along with SENSOR series connector interfaces, allowing users to easily connect various hardware and extend peripherals.
 
 
 

@@ -45,8 +45,6 @@ The STM32C011F4P6-TSSOP20 evaluation kit enables users to seamlessly evaluate th
 
 A simple test is conducted here by configuring LED and UART output.
 
-
-# Project Introduction
 - **STM32C011_project2**:STM32C011开发(2)----开发板测试
 - **CSDN Blog**:[https://blog.csdn.net/qq_24312945/article/details/144061188](https://blog.csdn.net/qq_24312945/article/details/144061188)
 
@@ -59,7 +57,6 @@ STM32CubeProgrammer (STM32CubeProg) is a fully-featured, multi-operating system 
 STM32CubeProgrammer offers extensive functionality, enabling programming of STM32 internal memories (such as Flash, RAM, and OTP) as well as external memories.
 
 
-# Project Introduction
 - **STM32C011_project3**:STM32C011开发(3)----Flash操作
 - **CSDN Blog**:[https://blog.csdn.net/qq_24312945/article/details/144062028](https://blog.csdn.net/qq_24312945/article/details/144062028)
 
